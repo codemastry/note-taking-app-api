@@ -9,3 +9,15 @@ D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.Common\obj\Debug\net5.0\Not
 D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.Common\obj\Debug\net5.0\NoteTakingApi.Common.dll
 D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.Common\obj\Debug\net5.0\ref\NoteTakingApi.Common.dll
 D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.Common\obj\Debug\net5.0\NoteTakingApi.Common.pdb
+C:\Users\chips\source\repos\codemastry\note-taking-app-api\NoteTakingApi.Common\bin\Debug\net5.0\NoteTakingApi.Common.deps.json
+C:\Users\chips\source\repos\codemastry\note-taking-app-api\NoteTakingApi.Common\bin\Debug\net5.0\NoteTakingApi.Common.dll
+C:\Users\chips\source\repos\codemastry\note-taking-app-api\NoteTakingApi.Common\bin\Debug\net5.0\ref\NoteTakingApi.Common.dll
+C:\Users\chips\source\repos\codemastry\note-taking-app-api\NoteTakingApi.Common\bin\Debug\net5.0\NoteTakingApi.Common.pdb
+C:\Users\chips\source\repos\codemastry\note-taking-app-api\NoteTakingApi.Common\obj\Debug\net5.0\NoteTakingApi.Common.csprojAssemblyReference.cache
+C:\Users\chips\source\repos\codemastry\note-taking-app-api\NoteTakingApi.Common\obj\Debug\net5.0\NoteTakingApi.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chips\source\repos\codemastry\note-taking-app-api\NoteTakingApi.Common\obj\Debug\net5.0\NoteTakingApi.Common.AssemblyInfoInputs.cache
+C:\Users\chips\source\repos\codemastry\note-taking-app-api\NoteTakingApi.Common\obj\Debug\net5.0\NoteTakingApi.Common.AssemblyInfo.cs
+C:\Users\chips\source\repos\codemastry\note-taking-app-api\NoteTakingApi.Common\obj\Debug\net5.0\NoteTakingApi.Common.csproj.CoreCompileInputs.cache
+C:\Users\chips\source\repos\codemastry\note-taking-app-api\NoteTakingApi.Common\obj\Debug\net5.0\NoteTakingApi.Common.dll
+C:\Users\chips\source\repos\codemastry\note-taking-app-api\NoteTakingApi.Common\obj\Debug\net5.0\ref\NoteTakingApi.Common.dll
+C:\Users\chips\source\repos\codemastry\note-taking-app-api\NoteTakingApi.Common\obj\Debug\net5.0\NoteTakingApi.Common.pdb
